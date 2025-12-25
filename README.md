@@ -26,20 +26,6 @@ If you’re building something cool with AI — let’s connect 🤝
 🌱 Django REST APIs for AI-driven backends
 🌱 Data Analysis & Visualization with Python
 
-🆘 Looking for Guidance In
-
-🔧 Advanced Agentic AI workflows
-🔧 Model deployment & MLOps
-🔧 Scaling ML models for real-world users
-
-(Always open to learning from mentors & practitioners!)
-
-💬 Ask Me About
-
-💡 Python & Machine Learning fundamentals
-💡 AI-powered chatbots & learning assistants
-💡 LLM concepts & autonomous agents
-💡 Data analysis and visualization
 
 ⚡ Fun Fact
 
