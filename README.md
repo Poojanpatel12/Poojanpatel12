@@ -39,9 +39,6 @@ Backend: Django, REST APIs
 Data: Pandas, NumPy, Matplotlib, Data Visualization
 Tools: Git, GitHub, VS Code
 
-🎯 Career Goal
-
-To work as an AI/ML Engineer in a research or development-focused role, contributing to scalable, impactful AI systems that solve real-world problems.
 
 
 ## 🌐 Socials:
