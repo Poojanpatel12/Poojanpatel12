@@ -1,5 +1,61 @@
-# 💫 About Me:
-👨‍💻 About Me<br><br>👋 Hi, I’m Poojan Patel, an aspiring AI/ML Engineer from Ahmedabad, India.<br>I enjoy building intelligent systems that solve real-world problems using Python, Machine Learning, and Agentic AI concepts.<br><br>🔭 I’m currently working on<br><br>EduAdapt – an AI-powered personalized learning assistant using LLM concepts<br><br>Network Packet Simulation to study routing and packet transmission behavior<br><br>Improving my AI/ML portfolio with practical, real-world projects<br><br>🤝 I’m looking to collaborate on<br><br>AI/ML & Agentic AI projects<br><br>LLM-based applications (chatbots, learning tools, intelligent agents)<br><br>Research-oriented or development internships in AI/ML<br><br>🆘 I’m looking for help with<br><br>Advanced Agentic AI workflows<br><br>Model deployment & MLOps<br><br>Scaling ML models for real users<br><br>🌱 I’m currently learning<br><br>Machine Learning & Deep Learning<br><br>Agentic AI & LLM concepts<br><br>Django REST APIs for AI backend development<br><br>Data Analysis & Visualization using Python<br><br>💬 Ask me about<br><br>Python & Machine Learning<br><br>AI-powered chatbots and learning assistants<br><br>LLM concepts & autonomous agents<br><br>Data analysis and ML fundamentals<br><br>⚡ Fun fact<br><br>⚡ I love turning complex AI concepts into simple, usable applications for students and learners.<br><br>🛠 Tech Stack<br><br>Languages: Python<br><br>AI/ML: Machine Learning, LLMs, Agentic AI concepts<br><br>Backend: Django, REST APIs<br><br>Data: Pandas, NumPy, Matplotlib, Data Visualization<br><br>Tools: Git, GitHub, VS Code<br><br>🎯 Career Goal<br><br>To work as an AI/ML Engineer in a research or development-focused role, contributing to impactful and scalable AI systems.
+💫 About Me
+
+👋 Hi, I’m Poojan Patel
+An aspiring AI/ML Engineer from Ahmedabad, India 🇮🇳
+
+I love building intelligent, real-world AI systems using Python, Machine Learning, LLMs, and Agentic AI concepts—especially tools that make learning easier and smarter.
+
+🚀 What I’m Working On
+
+🔹 EduAdapt – an AI-powered personalized learning assistant using LLM concepts
+🔹 Network Packet Simulation – analyzing routing and packet transmission behavior
+🔹 Strengthening my AI/ML portfolio with practical, industry-relevant projects
+
+🤝 Open to Collaborate On
+
+✔️ AI/ML & Agentic AI projects
+✔️ LLM-based applications (chatbots, learning tools, autonomous agents)
+✔️ Research-oriented or development internships in AI/ML
+
+If you’re building something cool with AI — let’s connect 🤝
+
+🧠 Currently Exploring & Learning
+
+🌱 Machine Learning & Deep Learning
+🌱 Agentic AI & LLM architectures
+🌱 Django REST APIs for AI-driven backends
+🌱 Data Analysis & Visualization with Python
+
+🆘 Looking for Guidance In
+
+🔧 Advanced Agentic AI workflows
+🔧 Model deployment & MLOps
+🔧 Scaling ML models for real-world users
+
+(Always open to learning from mentors & practitioners!)
+
+💬 Ask Me About
+
+💡 Python & Machine Learning fundamentals
+💡 AI-powered chatbots & learning assistants
+💡 LLM concepts & autonomous agents
+💡 Data analysis and visualization
+
+⚡ Fun Fact
+
+⚡ I enjoy turning complex AI concepts into simple, usable applications—especially for students and learners.
+
+🛠 Tech Stack
+
+Languages: Python
+AI/ML: Machine Learning, LLMs, Agentic AI concepts
+Backend: Django, REST APIs
+Data: Pandas, NumPy, Matplotlib, Data Visualization
+Tools: Git, GitHub, VS Code
+
+🎯 Career Goal
+
+To work as an AI/ML Engineer in a research or development-focused role, contributing to scalable, impactful AI systems that solve real-world problems.
 
 
 ## 🌐 Socials:
