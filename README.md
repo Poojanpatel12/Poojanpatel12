@@ -1,26 +1,23 @@
-**🌈 Howdy, developers!******
+**🌈 Howdy, developers!**
 
 **👋 Hi, I’m Poojan Patel**
-An aspiring AI/ML Engineer from Ahmedabad, India 🇮🇳
+An aspiring AI/ML Engineer 
 
 I love building intelligent, real-world AI systems using Python, Machine Learning, LLMs, and Agentic AI concepts—especially tools that make learning easier and smarter.
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🚀 What I’m Working On
-
 🔹 EduAdapt – an AI-powered personalized learning assistant using LLM concepts
 🔹 Network Packet Simulation – analyzing routing and packet transmission behavior
 🔹 Strengthening my AI/ML portfolio with practical, industry-relevant projects
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🤝 Open to Collaborate On
-
 ✔️ AI/ML & Agentic AI projects
 ✔️ LLM-based applications (chatbots, learning tools, autonomous agents)
 ✔️ Research-oriented or development internships in AI/ML
 
 If you’re building something cool with AI — let’s connect 🤝
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧠 Currently Exploring & Learning
-
 🌱 Machine Learning & Deep Learning
 🌱 Agentic AI & LLM architectures
 🌱 Django REST APIs for AI-driven backends
