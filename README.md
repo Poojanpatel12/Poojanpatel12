@@ -1,6 +1,6 @@
-💫 About Me
+**🌈 Howdy, developers!******
 
-👋 Hi, I’m Poojan Patel
+**👋 Hi, I’m Poojan Patel**
 An aspiring AI/ML Engineer from Ahmedabad, India 🇮🇳
 
 I love building intelligent, real-world AI systems using Python, Machine Learning, LLMs, and Agentic AI concepts—especially tools that make learning easier and smarter.
@@ -27,17 +27,7 @@ If you’re building something cool with AI — let’s connect 🤝
 🌱 Data Analysis & Visualization with Python
 
 
-⚡ Fun Fact
 
-⚡ I enjoy turning complex AI concepts into simple, usable applications—especially for students and learners.
-
-🛠 Tech Stack
-
-Languages: Python
-AI/ML: Machine Learning, LLMs, Agentic AI concepts
-Backend: Django, REST APIs
-Data: Pandas, NumPy, Matplotlib, Data Visualization
-Tools: Git, GitHub, VS Code
 _____________________________________________________________________________________________________________________________________________________________________________________________
 
 
